@@ -15,3 +15,5 @@ and finally run
 ```cmd
 npm start
 ```
+
+you can test the api with postman using the postman collection file in the repository
